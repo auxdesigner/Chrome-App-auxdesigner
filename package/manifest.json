@@ -1,7 +1,7 @@
 {
   "name": "A UX Designer",
   "description": "A random UX quote generator.",
-  "version": "0.3",
+  "version": "0.4",
   "manifest_version": 2,
   "app": {
     "background": {
