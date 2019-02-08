@@ -48,7 +48,8 @@ $(function(){
 					'is diplomatic',
 					'can connect the dots',
 					'loves to learn',
-					'does not jump into solutions'
+					'does not jump into solutions',
+					'gives a shit'
 
 				];
 
