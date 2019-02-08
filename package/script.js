@@ -38,6 +38,7 @@ $(function(){
 					'picks the right battle',
 					'is a visual thinker',
 					'is persistent',
+					'does not jump into solutions',
 					'should be on Twitter',
 					'does not design with Lorem Ipsum',
 					'knows Photoshop is just a tool',
@@ -47,8 +48,7 @@ $(function(){
 					'likes to sketch',
 					'is diplomatic',
 					'can connect the dots',
-					'loves to learn',
-					'does not jump into solutions'
+					'loves to learn'
 
 				];
 
