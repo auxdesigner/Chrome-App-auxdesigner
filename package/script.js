@@ -48,7 +48,7 @@ $(function(){
 					'likes to sketch',
 					'is diplomatic',
 					'can connect the dots',
-    			'gives a shit',
+    					'gives a shit',
 					'loves to learn'
 
 				];
