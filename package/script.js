@@ -43,7 +43,7 @@ $(function(){
 					'knows Photoshop is just a tool',
 					'tells stories with no bullshit',
 					'does more than pushing pixels',
-					'refuses to give up',
+					'knows when to give up',
 					'likes to sketch',
 					'is diplomatic',
 					'can connect the dots',
